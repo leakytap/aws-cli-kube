@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/leakytap/aws-cli-kube/compare/v1.0.0...v1.0.1) (2022-11-22)
+
+### Documentation
+
+- update README ([1285ca0](https://github.com/leakytap/aws-cli-kube/commit/1285ca0bf44fb9cbcc0d9fe5a2ad2f56f5aa18e7))
+
 # 1.0.0 (2022-11-22)
 
 ### Features
