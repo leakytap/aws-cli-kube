@@ -6,6 +6,6 @@ LABEL org.opencontainers.image.description "Docker image for the AWS CLI to use 
 RUN yum install -y nc \
     && yum clean all
 
-ADD run.sh /scripts/run.sh
+ADD run.sh /run.sh
 
-ENTRYPOINT ["/scripts/run.sh"]
+ENTRYPOINT ["/run.sh"]
