@@ -1,3 +1,13 @@
+## [1.0.2](https://github.com/leakytap/aws-cli-kube/compare/v1.0.1...v1.0.2) (2022-11-22)
+
+### Documentation
+
+- match repo name ([12f31cf](https://github.com/leakytap/aws-cli-kube/commit/12f31cfc01a9891f5f6d549fde2afdc99b76a63c))
+
+### Other
+
+- Merge branch 'main' of ssh://github.com/leakytap/aws-cli-kube ([1a11804](https://github.com/leakytap/aws-cli-kube/commit/1a11804b05fda8248f60dc6723e2d9bfa4ebd945))
+
 ## [1.0.1](https://github.com/leakytap/aws-cli-kube/compare/v1.0.0...v1.0.1) (2022-11-22)
 
 ### Documentation
