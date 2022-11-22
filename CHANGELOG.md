@@ -1,3 +1,9 @@
+## [1.0.3](https://github.com/leakytap/aws-cli-kube/compare/v1.0.2...v1.0.3) (2022-11-22)
+
+### Bug Fixes
+
+- move entrypoint script location ([a35c85a](https://github.com/leakytap/aws-cli-kube/commit/a35c85a6b0280d5eef4c47ca0871c92df325218d))
+
 ## [1.0.2](https://github.com/leakytap/aws-cli-kube/compare/v1.0.1...v1.0.2) (2022-11-22)
 
 ### Documentation
